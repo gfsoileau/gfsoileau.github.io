@@ -6,8 +6,8 @@ title: First post | Second day
 
 ###Early morning git markup.
 
-Adding a webiste [Metis] (www.thisismetis.com)
+Adding a webiste [Metis] (http://www.thisismetis.com/)
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+#![_config.yml]({{ site.baseurl }}/images/head.jpg)
 
