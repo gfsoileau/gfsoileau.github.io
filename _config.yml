@@ -21,7 +21,7 @@ author_image: "/assets/images/gina.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://gfsoileau.github.io/" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
