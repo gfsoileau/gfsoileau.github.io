@@ -28,7 +28,7 @@ baseurl: ""
 # social icons and sharing options
 social:
   - icon:	linkedin
-    url:	https://www.linkedin.com/in/gfsoileau
+    url:	www.linkedin.com/in/gfsoileau
     desc:
     share_url:
     share_title: ?text=
@@ -48,9 +48,9 @@ social:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/gfsoileau
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+ - icon:	google-plus
+   url:	https://google.com/gfsoileau
+   desc:	Add me on google+
+   share_url:
+   share_title:
+   share_link:
