@@ -6,8 +6,7 @@ gems:
   
 # Site settings
 title: "Gina Soileau"
-description: > # this means to ignore newlines until "email:"
-Fast times at Metis Data Science Bootcamp   
+description: "Fast times at Metis Data Science Bootcamp"
 
 email: gfsoileau@gmail.mail
 #blog logo
