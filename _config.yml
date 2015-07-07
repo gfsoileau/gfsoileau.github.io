@@ -28,7 +28,7 @@ baseurl: ""
 # social icons and sharing options
 social:
   - icon:	linkedin
-    url:	www.linkedin.com/in/gfsoileau
+    url:	https://www.linkedin.com/in/gfsoileau
     desc:
     share_url:
     share_title: ?text=
