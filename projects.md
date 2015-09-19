@@ -10,7 +10,7 @@ Searching for a home or apartment in the NYC real estate market is cruel, daunti
 
 I used vector autoregression (VAR) to model my three time series, median price, google trends, nytimes mentions. The results of the prediction were then used to color a D3 choropleth map of every neighborhood in New York City. Happy house hunting!
 
-![Heat Map](/assets/images/map)
+![Heat Map]("/assets/images/map")
 
 [View code](https://github.com/gfsoileau/soothsay/blob/master/re_predictor.ipynb)
 
