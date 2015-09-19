@@ -10,18 +10,18 @@ Searching for a home or apartment in the NYC real estate market is cruel, daunti
 
 I used vector autoregression (VAR) to model my three time series, median price, google trends, nytimes mentions. The results of the prediction were then used to color a D3 choropleth map of every neighborhood in New York City. Happy house hunting!
 
-https://github.com/gfsoileau/soothsay
+https://github.com/gfsoileau/soothsay/blob/master/re_predictor.ipynb
 
 ### [Movie Seasonality](https://github.com/gfsoileau/Seasonality)
 OLS regression was used to predict changes in movie revenue when a specific genre of movie is released "out of season”. For example, calculate the total predicted domestic revenue of an action film, with a stated budget if it released in May, August and December. Hint: it will earn much more in May!
 
-https://github.com/gfsoileau/Seasonality
+https://github.com/gfsoileau/Seasonality/blob/master/Luther.ipynb
 
 ### [Marketing](https://github.com/gfsoileau/Mcnulty)
 
 With this project I predicted the outcome of a targeted marketing campaign using depositor demographics and macroeconomic factors provided by a bank. I compared several models including: SVG, Decision Tree, K-nearest Neighbors, GaussianNB, Random Forest and Logistic Regression. I built a function that tuned each model by trying several parameters and logging the results. 
 
-https://github.com/gfsoileau/Mcnulty
+https://github.com/gfsoileau/Mcnulty/blob/master/bank.ipynb
 
 
 
