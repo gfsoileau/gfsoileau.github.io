@@ -10,7 +10,7 @@ Searching for a home or apartment in the NYC real estate market is cruel, daunti
 
 I used vector autoregression (VAR) to model my three time series, median price, google trends, nytimes mentions. The results of the prediction were then used to color a D3 choropleth map of every neighborhood in New York City. Happy house hunting!
 
-[View code](https://github.com/gfsoileau/soothsay/blob/master/re_predictor.ipynb)
+**[View code](https://github.com/gfsoileau/soothsay/blob/master/re_predictor.ipynb)
 
 ### [Movie Seasonality](https://github.com/gfsoileau/Seasonality/blob/master/Luther.ipynb)
 OLS regression was used to predict changes in movie revenue when a specific genre of movie is released "out of season”. For example, calculate the total predicted domestic revenue of an action film, with a stated budget if it released in May, August and December. Hint: it will earn much more in May!
