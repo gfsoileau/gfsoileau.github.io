@@ -18,7 +18,7 @@ I used vector autoregression (VAR) to model my three time series, median price, 
 ### _Movie Seasonality_
 OLS regression was used to predict changes in movie revenue when a specific genre of movie is released "out of season”. For example, calculate the total predicted domestic revenue of an action film, with a stated budget if it released in May, August and December. Hint: it will earn much more in May!
 
-![Drama Films]({{ site.url }}/assets/images/DramaBar.png)  ![Horror Flicks]({{ site.url }}/assets/images/horror.png)
+![Dramas]({{ site.url }}/assets/images/DramaBar.png)  ![Horror Flicks]({{ site.url }}/assets/images/horror.png)
 
 [View code](https://github.com/gfsoileau/Seasonality/blob/master/Luther.ipynb)
 
