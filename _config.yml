@@ -14,7 +14,7 @@ email: gfsoileau@gmail.mail
 #blog logo
 logo: "/assets/images/gs.png"
 # blog cover
-cover: "/assets/images/hi.jpg"
+cover: "/assets/images/map.png"
 
 name: 'Gina Soileau'
 author: 'Gina Soileau'
@@ -49,7 +49,7 @@ social:
     share_link:
 
  # - icon:	google-plus
- #   url:	https://plus.google.com/+GinaSoileau
+ #   url:	https://plus.google.com/+GinaSoileau/posts
  #   desc:	Add me on google+
  #   share_url:
  #   share_title:
